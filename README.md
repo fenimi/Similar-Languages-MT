@@ -4,11 +4,8 @@ Models for the WMT21Similar Languages: Improving Similar Language Translation Wi
 - [**French - Bambara**](https://huggingface.co/Ife/FR-BM/tree/main).
 - [**Spanish - Portuguese**](https://huggingface.co/Ife/ES-PT/tree/main).
 - [**Portuguese - Spanish**](https://huggingface.co/Ife/PT-ES/tree/main).
-```
-
-Spanish - Catalan https://huggingface.co/Ife/ES-CA/tree/main
-Catalan - Spanish https://huggingface.co/Ife/CA-ES/tree/main
-```
+- [**Spanish - Catalan**](https://huggingface.co/Ife/ES-CA/tree/main).
+- [**Catalan - Spanish**](https://huggingface.co/Ife/CA-ES/tree/main).
 
 ## Citation
 If you use any of these models, please site this paper as follows: 
