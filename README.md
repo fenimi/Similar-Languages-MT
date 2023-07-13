@@ -1,14 +1,11 @@
 # Similar-Languages-MT
 Models for the WMT21Similar Languages: Improving Similar Language Translation With Transfer Learning are available on Huggingface. Please use the following links to retrieve the models. 
-[**AfroLID: A Neural Language Identification Tool for African Languages**](https://arxiv.org/abs/2210.11744).
-[**AfroLID: A Neural Language Identification Tool for African Languages**](https://arxiv.org/abs/2210.11744).
-[**AfroLID: A Neural Language Identification Tool for African Languages**](https://arxiv.org/abs/2210.11744).
-[**AfroLID: A Neural Language Identification Tool for African Languages**](https://arxiv.org/abs/2210.11744).
+- [**Bambara - French**](https://huggingface.co/Ife/BM-FR/tree/main).
+- [**French - Bambara**](https://huggingface.co/Ife/FR-BM/tree/main).
+- [**Spanish - Portuguese**](https://huggingface.co/Ife/ES-PT/tree/main).
+- [**Portuguese - Spanish**](https://huggingface.co/Ife/PT-ES/tree/main).
 ```
-Bambara - French https://huggingface.co/Ife/BM-FR/tree/main
-French - Bambara https://huggingface.co/Ife/FR-BM/tree/main
-Spanish - Portuguese https://huggingface.co/Ife/ES-PT/tree/main
-Portuguese - Spanish  https://huggingface.co/Ife/PT-ES/tree/main
+
 Spanish - Catalan https://huggingface.co/Ife/ES-CA/tree/main
 Catalan - Spanish https://huggingface.co/Ife/CA-ES/tree/main
 ```
