@@ -11,8 +11,8 @@ Catalan - Spanish https://huggingface.co/Ife/CA-ES/tree/main
 
 
 ## Citation
-If you use any of these models, please site this paper: 
-''
+If you use any of these models, please site this paper as follows: 
+```
 @inproceedings{adebara-abdul-mageed-2021-improving,
     title = "Improving Similar Language Translation With Transfer Learning",
     author = "Adebara, Ife  and
@@ -26,4 +26,4 @@ If you use any of these models, please site this paper:
     pages = "273--278",
     abstract = "We investigate transfer learning based on pre-trained neural machine translation models to translate between (low-resource) similar languages. This work is part of our contribution to the WMT 2021 Similar Languages Translation Shared Task where we submitted models for different language pairs, including French-Bambara, Spanish-Catalan, and Spanish-Portuguese in both directions. Our models for Catalan-Spanish (82.79 BLEU)and Portuguese-Spanish (87.11 BLEU) rank top 1 in the official shared task evaluation, and we are the only team to submit models for the French-Bambara pairs.",
 }
-''
+```
